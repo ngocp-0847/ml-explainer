@@ -1,5 +1,5 @@
 ---
-name: thread-vector-thinking
+name: ml-explainer
 description: >
   A mental framework for understanding, explaining, and reasoning about any ML/DL algorithm
   by decomposing it into two core threads: forward (data→prediction) and backward (learning/correction).
